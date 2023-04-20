@@ -4,4 +4,4 @@ WORKDIR /usr/local/tomcat/webapps
 
 COPY target/vprofile-v2.war .
 
-EXPOSE 80
+EXPOSE 8080
